@@ -1,6 +1,7 @@
-#https://github.com/Alejandro-Mendieta/MAZE/blob/main/assests/FOTOS/FOTO2.png?raw=true
-<img width="901" height="636" alt="image" src="https://github.com/Alejandro-Mendieta/MAZE/blob/main/assests/FOTOS/FOTO2.png?raw=true" />
-<img width="901" height="636" alt="image" src="https://github.com/Alejandro-Mendieta/MAZE/blob/main/assests/FOTOS/FOTO2.png?raw=true" />
+# 🎮 Laberinto Cósmico - Escape Imposible
+
+<img width="901" height="636" alt="image" src="https://github.com/Alejandro-Mendieta/MAZE/blob/main/assests/FOTOS/FOTO1.png?raw=true" />
+<img width="901" height="636" alt="image" src="https://github.com/Alejandro-Mendieta/MAZE/blob/main/assests/FOTOS/FOTO1.png?raw=true" />
 
 ![Laberinto Cósmico](https://img.shields.io/badge/Version-2.0-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.6+-green.svg)
